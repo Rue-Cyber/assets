@@ -1,0 +1,33 @@
+{
+    "name": "RUE",
+    "website": "https://ruelabs.xyz",
+    "description": "RUE token is a new crypto with limited supply of 210,000,000 tokens, it helps fund Rue Labs & future projects, it has potential for growth, scarcity and as an investment opportunity.",
+    "explorer": "https://bscscan.com/token/0x922596BCE1A947a1528aedB68607923D73721a1c",
+    "research": "https://ruelabs.xyz/ruetoken",
+    "symbol": "RUE",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/binance-chain/"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/ruetokens"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/ruetoken"
+        },
+        {
+            "name": "whitepaper",
+            "url": "http://ruelabs.xyz/whitepaper"
+        }
+    ]
+}
+
